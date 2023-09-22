@@ -9,13 +9,13 @@ Muhammad Rafi Sutrisno - 5025211167 <br/>
 Nadira Milha Nailul Fath - 5025211253
 
 ## No 1
-**Jawaban :** 
+**Jawaban :** <br/>
 a. 258040667<br/>
 b. 1044861039<br/>
 c. 1044861039<br/>
 d. 258040696
 
-**Langkah Penyelesaian :**
+**Langkah Penyelesaian :**<br/>
 a. Menggunakan filter STOR untuk khusus perintah pengunggahan dalam FTP. lalu klik 2 kali maka akan didapat sequence number raw.
 ![Alt text](url)<br/>
 b. Menggunakan filter STOR untuk khusus perintah pengunggahan dalam FTP. lalu klik 2 kali maka akan didapat acknowledge number raw.
@@ -26,7 +26,7 @@ d. maka didapat  sequence number raw dan acknowledge number raw dari paket respo
 ![Alt text](url)<br/>
 
 ## No 3
-**Jawaban :** 
+**Jawaban :** <br/>
 a. 21<br/>
 b. UDP
 
@@ -37,7 +37,7 @@ dan terlihat protocol nya menggunakan UDP.
 ![Alt text](url)
 
 ## No 4
-**Jawaban :** 
+**Jawaban :** <br/>
 0x18e5
 
 **Langkah Penyelesaian :**
@@ -47,13 +47,13 @@ dan terlihat protocol nya menggunakan UDP
 ![Alt text](url)
 
 ## No 5
-**Jawaban :** 
+**Jawaban :** <br/>
 a. 60<br/>
 b. 25<br/>
 c. 74.53.140.153
 
 
-**Langkah Penyelesaian :**
+**Langkah Penyelesaian :** <br/>
 a. Jumlah semua paket dapat dilihat dari displayed dibagian bawah yaitu 60.
 ![Alt text](url)<br/>
 b. filter untuk mencari yang menggunakan service smtp lalu port dapat dilihat di Transmission Control Protocol.
