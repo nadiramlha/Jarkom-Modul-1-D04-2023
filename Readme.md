@@ -72,6 +72,7 @@ Berapa nilai checksum yang didapat dari header pada paket nomor 130?
 - Selanjutnya klik 2 kali lau di user diagram control akan ada checksum dan terlihat protocol nya menggunakan UDP
 
 ![Alt text](/Gambar/no4.png)
+![Alt text](/Gambar/no4-b.png)
 
 ## No 5
 **Soal**
